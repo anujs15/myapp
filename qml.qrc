@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Store.qml</file>
+        <file>keydata.js</file>
+        <file>playground.qml</file>
+        <file>../Documents/images/figma.png</file>
+        <file>../Documents/images/vim.png</file>
+        <file>../Documents/images/vscode.png</file>
+        <file>../Documents/images/webflow.png</file>
+    </qresource>
+</RCC>

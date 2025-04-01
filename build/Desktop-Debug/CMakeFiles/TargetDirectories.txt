@@ -1,0 +1,9 @@
+/home/anujs/myapp/build/Desktop-Debug/CMakeFiles/myapp.dir
+/home/anujs/myapp/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/anujs/myapp/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/anujs/myapp/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/anujs/myapp/build/Desktop-Debug/CMakeFiles/install.dir
+/home/anujs/myapp/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/anujs/myapp/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/anujs/myapp/build/Desktop-Debug/CMakeFiles/myapp_autogen_timestamp_deps.dir
+/home/anujs/myapp/build/Desktop-Debug/CMakeFiles/myapp_autogen.dir
