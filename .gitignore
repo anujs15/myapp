@@ -13,6 +13,7 @@ Makefile*
 *.o
 *.obj
 /build/Desktop-Debug/
+CMakeLists.txt.user
 
 # Qt Creator files
 *.pro.user
