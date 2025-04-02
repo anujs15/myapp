@@ -14,6 +14,7 @@ Makefile*
 *.obj
 /build/Desktop-Debug/
 /CMakeLists.txt.user
+.gitignore
 
 # Qt Creator files
 *.pro.user
