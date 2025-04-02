@@ -1,0 +1,55 @@
+# Build directories
+build/
+debug/
+release/
+Desktop-Debug/
+*-debug/
+*-release/
+*_resource.rc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*.o
+*.obj
+/build/Desktop-Debug/
+
+# Qt Creator files
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+*.qmlproject.user
+*.qmlproject.user.*
+CMakeLists.txt.user*
+
+# Installer directories and files
+installer/
+*.run
+*.exe
+*.dmg
+*.pkg
+*.AppImage
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Compiled libraries
+*.so
+*.so.*
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Temporary files
+*.autosave
+*~
+*.bak
+*.tmp
+
+# Custom generated files
+myapp_autogen/
